@@ -1,0 +1,7 @@
+username, password, age, first_name, last_name, is_loggedin
+user1, password1, 25, John, Doe, True
+user2, password2, 30, Jane, Doe, False
+user3, password3, 35, Mike, Smith, False
+username,password
+yoyo,pppp
+kkk,ooo
